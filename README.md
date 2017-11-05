@@ -1,2 +1,2 @@
 # EncrpytionSharp
-C# Encryption Library for RSA, AES, and XOR Encryption
+C# Encryption Library for AES, RSA, and XOR Encryption
